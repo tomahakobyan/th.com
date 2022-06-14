@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BraindYerevan';
+    src: url('fonts/braindyerevan-webfont.woff2') format('woff2'),
+         url('fonts/BraindYerevan.woff') format('woff'),
+         url('fonts/braindyerevan-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
